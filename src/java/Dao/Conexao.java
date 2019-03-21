@@ -11,7 +11,7 @@ public class Conexao {
         String driver = "org.postgresql.Driver";
         String url = "jdbc:postgresql:5432/localhost/JavaWeb";
         String user = "postgres";
-        String pass = "Mestre@10";
+        String pass = "";
 
         Connection conn = null;
 
